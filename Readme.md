@@ -2,6 +2,8 @@ Copy without Nikudot
 ===========
 Copy without Nikudot is a Service for macOS that removes Hebrew Nikudot copies the selected text to the clipboard without Nikudot. 
 
+[Download the latest release here](https://github.com/MichaelJBerk/CopyWithoutNikudot/releases/latest)
+
 Installation
 -
 Double-Click on the "Copy Without Nikud" file. macOS will ask you if you'd like to install it, so click "Install" to proceed.
