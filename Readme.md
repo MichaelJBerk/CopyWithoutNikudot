@@ -18,7 +18,7 @@ If you already know how to remove a Service in macOS, there's nothing new here.
 
 Open the Finder. In the Menu Bar, click "Go" and choose "Go to Folder..." from the dropdown.
 In the panel that just opened, type `~/Library/Services/`. 
-From this folder, just delete the "Remove Nikudot" file.
+From this folder, just delete the "Copy Without Nikudot" file.
 
 Keyboard Shortcut
 -
