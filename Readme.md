@@ -26,5 +26,5 @@ If you find yourself using this quite often, you may want to set a Keyboard Shor
 
 Acknowledgments 
 -
-This service is based on Yakov Shafranovich's Remove Voels From Hebrew Unicode script, specifically @shimondoodkin's method. It can be found at <https://gist.github.com/yakovsh/345a71d841871cc3d375>
+This service is based on Yakov Shafranovich's Remove Vowels From Hebrew Unicode script, specifically @shimondoodkin's method. It can be found at <https://gist.github.com/yakovsh/345a71d841871cc3d375>
 
