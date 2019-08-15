@@ -1,6 +1,6 @@
 Copy without Nikudot
 ===========
-Copy without Nikudot is a Service for macOS that copies selected text to the clipboard without Nikudot.
+Copy Without Nikudot is a Service for macOS that copies selected text to the clipboard without Nikudot.
 
 [Download the latest release here](https://github.com/MichaelJBerk/CopyWithoutNikudot/releases/latest)
 
